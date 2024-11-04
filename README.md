@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Computer Science student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷
 <!--
 **spike1236/spike1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
